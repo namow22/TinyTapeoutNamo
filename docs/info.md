@@ -8,13 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+frghfjhgfuiytf.
 
-Explain how your project works
-Press to start change input by switches
 ## How to test
+dfghbjnk/
 
-Explain how to use your project
-Press the switches. The 1,2 pins should be incerse logic.
 ## External hardware
 8 bit display?
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
